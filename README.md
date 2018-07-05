@@ -1,6 +1,6 @@
-**About Me | www.dhulidesign.com**
+###About Me | www.dhulidesign.com
 
-*Software Engineer inside a major Fortune 40 pharmaceutical company*
+####_Software Engineer inside a major Fortune 40 pharmaceutical company_
 
 Advanced website/app developer with 6 years of experience in structuring, developing, and implementing interactive websites and apps. Innovative use of social media and SEO to drive traffic and engage users.
 Able to complete project efficiently and satisfy customers with attractive, user-frendly website/app.
