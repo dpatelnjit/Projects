@@ -1,0 +1,4 @@
+set abc 4+4;
+print abc;
+set ad 3 / "Asdasd";
+print ad;

@@ -1,0 +1,16 @@
+Staff 77778 Julie Chang Registrar
+Adjunct 19778 Mike Thompson CS mtxxx@gmail.com GITC2400
+Junior 98444 Serene Murray Math smyyy@gmail.com
+Freshman 98772 Bob Mathews CS bmyyy@gmail.com
+Professor 19010 Joan Berry Math jbxxx@gmail.com GITC2315C
+Professor 19871 Aparna Khat CS akxxx@gmail.com GITC1400
+Adjunct 18821 Hari Mentor Physics hmxxx@gmail.com CK231
+Staff 20112 Jim George Plant
+Junior 68339 Tom Harry CS thyyy@gmail.com
+Senior 78883 Vince Charles IT vcyyy@gmail.com
+Freshman 87777 Susan Han EE shyyy@gmail.com
+Senior 88888 Janki Khat IE jkyyy@gmail.com
+Staff 5555 Aparna Sen Plant
+Senior 66663 Jill Kaley it jk@jk.com
+Staff 77777 Joe Batra plumbing
+Staff 33333 Jim Natale Plumbing
